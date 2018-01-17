@@ -1,4 +1,4 @@
-# Porto - Update this file and the code of conduct!
+# Papers We ❤️ Porto
 
 This is the repository for the Porto chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/porto/blob/master/code-of-conduct.md).
 
