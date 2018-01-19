@@ -1,10 +1,10 @@
 # Papers We ❤️ Porto
 
-This is the repository for the Porto chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/porto/blob/master/code-of-conduct.md).
+This is the repository for the Porto chapter of Papers We Love. As a local chapter, we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/porto/blob/master/code-of-conduct.md).
 
 ### Information
 
-In the spirit of the "Papers We Love" groups around the globe we want to start our own version in Porto.
+In the spirit of the "Papers We Love" groups around the globe, we want to start our own version in Porto.
 
 Within the realm of computing, which is your favorite paper, the one that inspired or taught you the most, and which you want to tell the rest of the group about? Come share the ideas in an awesome academic/research publication with fellow engineers, programmers, and paper-readers.
 
@@ -17,3 +17,4 @@ Events are posted to the [Papers We Love @ Porto meetup group](https://www.meetu
 ### Contact
 
 * Pedro Tavares [@ordepdev](twitter.com/ordepdev)
+* Filipe Freire [@filfreire](twitter.com/filrfreire)
