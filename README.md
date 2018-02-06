@@ -16,5 +16,5 @@ Events are posted to the [Papers We Love @ Porto meetup group](https://www.meetu
 
 ### Contact
 
-* Pedro Tavares [@ordepdev](twitter.com/ordepdev)
-* Filipe Freire [@filfreire](twitter.com/filrfreire)
+* Pedro Tavares [@ordepdev](https://twitter.com/ordepdev)
+* Filipe Freire [@filfreire](https://twitter.com/filrfreire)
