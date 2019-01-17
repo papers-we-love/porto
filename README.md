@@ -32,6 +32,10 @@ We're curating this repository for papers presented at Papers We Love @ Porto. Y
 * Visualising graphs with millions of edges using edge bundling :: [Daniel Moura](https://www.linkedin.com/in/dmoura)
 * Ethereum: A secure decentralised generalised transaction ledger :: [Hugo Peixoto](https://www.linkedin.com/in/hugopeixoto)
 
+#### [PWL #06](https://www.meetup.com/Papers-We-Love-Porto/events/252595151/) at Blip
+* [Mastering the game of Go with deep neural networks and tree search](https://drive.google.com/file/d/1BBy2BDrqV3b045Wg3fEtpHrIuJ02YJV9/view) :: [Joāo Fernandes](https://www.linkedin.com/in/jo%C3%A3o-fernandes-51297224/)
+* [Distributed Consensus](https://slides.com/naps62/distributing-consensus-pwlp#/) :: [Miguel Palhas](https://twitter.com/naps62)
+
 Events are posted to the [Papers We Love @ Porto meetup group](https://www.meetup.com/Papers-We-Love-Porto/).
 
 ### Contact
